@@ -1,9 +1,9 @@
 # Module_1_Lesson_2_hw_3_TextView_EditText_Button
-Lesson's topic:
+**Lesson's topic:**
 
 Operators: arithmetic, logical, comparisons.
 
-Technical task:
+**Technical task:**
 
 Write a program for an automatic bus fare collection system.
 Task:
@@ -13,6 +13,7 @@ Task:
 3) If a pensioner, then require a pension certificate. If there is a pension certificate - allow passage, otherwise - don't allow.
 Make it using the TextView on the screen.
 
-Screen recoding (please, note that it was converted to GIF, so it's not smooth as it was):
+
+**Screen recoding** (please, note that it was converted to GIF, so it's not smooth as it was):
 
 ![modul_1_lesson_2_hw_3_textview](https://github.com/vdcast/Module_1_Lesson_2_hw_3_TextView_EditText_Button/assets/108469609/91ee624c-2f0f-4c4a-9a67-6d907d60a616)
