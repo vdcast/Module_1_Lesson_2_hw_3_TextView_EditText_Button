@@ -19,12 +19,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        for (int i = 0; i <= 8; i++){
-
-
-            Log.d("MYLOG", "" + i);
-        }
-
         int ticketPrice = 10;
 
         TextView tvEnter = findViewById(R.id.tvEnter);
@@ -52,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                     tvEnter.setText("You are child. Ticket is free for you. Please, take your place.");
                     Log.d("MYLOG", "You are child. Ticket is free for you. Please, take your place.");
                 } else if ((etAge >= 18) && (etAge <= 60)){
-
+                    tvText.setText("Payment");
                     tvEnter.setText("You are adult. You need a ticket. Please, make a payment.");
                     Log.d("MYLOG", "You are adult. You need a ticket. Please, make a payment.");
 
