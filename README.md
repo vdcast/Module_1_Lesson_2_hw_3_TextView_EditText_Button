@@ -3,7 +3,7 @@
 
 Operators: arithmetic, logical, comparisons.
 
-**Technical task:**
+**Task:**
 
 Write a program for an automatic bus fare collection system.
 Task:
