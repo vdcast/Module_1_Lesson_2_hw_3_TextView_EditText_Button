@@ -14,6 +14,6 @@ Task:
 Make it using the TextView on the screen.
 
 
-**Screen recoding** (please, note that it was converted to GIF, so it's not smooth as it was):
+**Result - Screen recoding** (please, note that it was converted to GIF, so it's not smooth as it was):
 
 ![modul_1_lesson_2_hw_3_textview](https://github.com/vdcast/Module_1_Lesson_2_hw_3_TextView_EditText_Button/assets/108469609/91ee624c-2f0f-4c4a-9a67-6d907d60a616)
