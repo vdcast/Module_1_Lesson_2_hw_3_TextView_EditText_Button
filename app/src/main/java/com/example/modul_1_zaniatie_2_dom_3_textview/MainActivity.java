@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                     Log.d("MYLOG", "You are child. Ticket is free for you. Please, take your place.");
                 } else if ((etAge >= 18) && (etAge <= 60)){
                     tvText.setText("Payment");
-                    tvEnter.setText("You are adult. You need a ticket. Please, make a payment.");
+                    tvEnter.setText("You are adult. You need a ticket. Please, make a payment. Ticket price is 10.");
                     Log.d("MYLOG", "You are adult. You need a ticket. Please, make a payment.");
 
                     btEnter.setOnClickListener(new View.OnClickListener() {
@@ -110,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
                                 tvEnter.setText("Ok. Thank you. Please, take your place.");
                                 Log.d("MYLOG","Ok. Thank you. Please, take your place.");
                             } else {
-                                tvEnter.setText("You need a ticket. Please, make a payment.");
+                                tvEnter.setText("You need a ticket. Please, make a payment. Ticket price is 10.");
                                 tvText.setText("Payment");
                                 btEnter.setOnClickListener(new View.OnClickListener() {
                                     @Override
